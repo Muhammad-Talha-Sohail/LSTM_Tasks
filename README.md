@@ -1,2 +1,2 @@
 # RhombixTechnologies_Tasks
-Stock Prediction
+Stock Prediction using LSTM
